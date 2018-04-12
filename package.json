@@ -12,7 +12,7 @@
     "express": "^4.14.0",
     "body-parser": "^1.15.2",
     "js-yaml": "^3.6.1",
-    "github": "^2.4.0",
+    "github": "^12.0.0",
     "md5": "^2.1.0",
     "express-github-webhook": "^1.0.5",
     "sha1": "^1.1.1",
